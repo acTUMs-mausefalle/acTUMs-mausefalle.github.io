@@ -1137,12 +1137,10 @@ pre {
 }
 
 .responsive-iframe {
-  width: 100%; /* Make the iframe fill the container */
-  height: 300px; /* Adjust the height as needed */
+  width: 90%; /* Make the iframe fill the container */
+  height: 90%; /* Adjust the height as needed */
   position: absolute;
-  top: 40px;
-  bottom: 40px;
-  left: 40px;
-  right: 40px;
+  top: 5%;
+  left: 5%;
   z-index: 2;
 }
