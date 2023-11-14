@@ -1142,5 +1142,6 @@ pre {
   position: absolute;
   top: 5%;
   left: 5%;
+  right: 5%;
   z-index: 2;
 }
