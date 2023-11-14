@@ -1136,6 +1136,7 @@ pre {
   right: 0;
   width: 100%;
   height: 100%;
+  z-index: 1
 }
 
 .responsive-iframe {
@@ -1144,4 +1145,5 @@ pre {
   left: -30;
   width: 80%;
   height: 80%;
+  z-index: 2
 }
