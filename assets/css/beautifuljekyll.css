@@ -1120,7 +1120,7 @@ pre {
 }
 
 .responsive-iframe {
-  background-image: "assets/img/rahmen.png";
+  background-image: url("assets/img/rahmen.png");
   background-repeat: no-repeat;
   height: auto;
   width: auto\9;
