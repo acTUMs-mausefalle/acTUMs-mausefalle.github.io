@@ -1128,8 +1128,8 @@ pre {
 }
 
 .responsive-image {
-  width: auto; /* Adjust the width as needed */
-  height: 100%; /* Maintain aspect ratio */
+  width: 100%; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
   position: absolute;
   top: 0;
   left: 0;
@@ -1137,8 +1137,8 @@ pre {
 }
 
 .responsive-iframe {
-  width: auto; /* Make the iframe fill the container */
-  height: 90%; /* Adjust the height as needed */
+  width: 100%; /* Make the iframe fill the container */
+  height: auto; /* Adjust the height as needed */
   position: absolute;
   top: 5%;
   left: 5%;
