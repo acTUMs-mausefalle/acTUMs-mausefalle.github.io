@@ -1120,10 +1120,17 @@ pre {
 }
 
 
-.container {
+.container1 {
   position: relative;
   overflow: hidden;
   width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+.container2 {
+  position: absolute;
+  overflow: hidden;
+  width: 50%;
   padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
 }
 
