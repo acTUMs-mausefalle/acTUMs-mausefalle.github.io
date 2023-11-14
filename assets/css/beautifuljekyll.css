@@ -1133,6 +1133,7 @@ pre {
   position: absolute;
   top: 0;
   left: 0;
+  z-index: 1;
 }
 
 .responsive-iframe {
@@ -1141,4 +1142,5 @@ pre {
   position: absolute;
   top: 0;
   left: 0;
+  z-index: 2;
 }
