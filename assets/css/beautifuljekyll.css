@@ -1121,7 +1121,6 @@ pre {
 
 
 .container {
-  background-image: url("../img/rahmen.png");
   position: relative;
   overflow: hidden;
   width: 100%;
@@ -1149,8 +1148,11 @@ pre {
 
 
 .responsive-iframe {
-  height: 380px;
-  width: 750px;
-  margin: 0 auto 30px;
-  position: relative;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 80%;
+  height: 80%;
   }
