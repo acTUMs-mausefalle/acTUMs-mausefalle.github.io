@@ -1137,7 +1137,7 @@ pre {
 }
 
 .responsive-iframe {
-  width: 90%; /* Make the iframe fill the container */
+  width: auto; /* Make the iframe fill the container */
   height: 90%; /* Adjust the height as needed */
   position: absolute;
   top: 5%;
