@@ -1122,8 +1122,8 @@ pre {
 .responsive-iframe {
   background-image: "assets/img/rahmen.png";
   background-repeat: no-repeat;
-  height: 380px;
-  width: 750px;
+  height: auto;
+  width: auto\9;
   margin: 0 auto 30px;
   position: relative;
   }
