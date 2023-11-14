@@ -1128,8 +1128,8 @@ pre {
 }
 
 .responsive-image {
-  width: 100%; /* Adjust the width as needed */
-  height: auto; /* Maintain aspect ratio */
+  width: auto; /* Adjust the width as needed */
+  height: 100%; /* Maintain aspect ratio */
   position: absolute;
   top: 0;
   left: 0;
