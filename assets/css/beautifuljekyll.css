@@ -1140,8 +1140,8 @@ pre {
 
 .responsive-iframe {
   position: absolute;
-  top: 30;
-  left: 30;
+  top: -30;
+  left: -30;
   width: 80%;
   height: 80%;
 }
