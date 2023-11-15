@@ -354,7 +354,8 @@ img {
   {% unless site.round-avatar == false %}
     border-radius: 50%;
   {% endunless %}
-  display: block;
+  display: 
+  ;
 }
 
 .navbar-custom.top-nav-expanded .avatar-container {
@@ -1093,8 +1094,8 @@ pre {
 
 .img {
   max-width: 100%;
-  height: auto;
-  width: auto\9;
+  width: auto;
+  height: auto/2;
 }
 
 .list-container {
