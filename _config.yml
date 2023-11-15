@@ -51,11 +51,6 @@ title-img: "/assets/img/Actum Logo ohne Name.png"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "actum-hsg@fs.tum.de"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: Theatergruppe-ACTUM
-#  github: daattali
-#  twitter: daattali
-#  patreon: DeanAttali
   youtube: "@actum7032"
 #  medium: yourname
 #  reddit: yourname
